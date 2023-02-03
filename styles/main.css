@@ -16,3 +16,12 @@ header img {
 main {
     clear: left;
 }
+
+.link {
+    color: steelblue;
+}
+
+footer {
+    font-size: 75%;
+    text-align: center;
+}
